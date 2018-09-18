@@ -23,7 +23,7 @@
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="pages/carousel.html">Carousel</a>
+                    <a class="nav-link" href="#">Link1</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Link2</a>
@@ -70,7 +70,7 @@
 
     <div class="container">
         <h1>My BootStrap 4 exposition</h1>
-        <p>This is the NavBar show-Off => Try it it's responsive !!</p>
+        <p>This is the NavBar showOf => Try it it's responsive !!</p>
     </div>
 
 </body>
